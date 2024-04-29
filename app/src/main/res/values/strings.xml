@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Persistence</string>
+    <string name="app_read">READ</string>
+    <string name="app_write">WRITE</string>
 </resources>
